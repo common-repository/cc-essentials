@@ -1,0 +1,46 @@
+// Variables
+
+button_map = {
+	'red'	: #DA4F49,
+	'green'	: #5BB75B,
+	'yellow': #FAA732,
+	'black'	: #363636,
+	'blue'	: #006DCC,
+	'gray'	: #767676,
+	'white' : #FFFFFF
+}
+
+notification_map = {
+	'info' 	 : { 'bg' : #d9edf7, 'c' : #31708f },
+	'success': { 'bg' : #dff0d8, 'c' : #3c763d },
+	'warning': { 'bg' : #fcf8e3, 'c' : #8a6d3b },
+	'danger' : { 'bg' : #f2dede, 'c' : #a94442 }
+}
+
+
+// Mixins
+
+iconize( $code ) {
+	content: $code;
+	display: inline-block;
+	font-family: FontAwesome;
+	font-style: normal;
+	font-weight: normal;
+	line-height: 1;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+// Basics
+
+.cce-clearfix {
+	zoom: 1;
+	&:before,
+	&:after {
+		display: table;
+		content: "";
+	}
+	&:after {
+		clear: both;
+	}
+}

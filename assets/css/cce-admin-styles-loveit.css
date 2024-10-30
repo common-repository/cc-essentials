@@ -1,0 +1,19 @@
+/* LoveIt admin styles */
+
+.fixed .column-cce-loveit-data {
+	width: 10em
+}
+
+div.widget[id*="cce_loveit_widget"] h3 {
+	position: relative;
+	background-image: linear-gradient(to right, #f3faff 0%, transparent 60%)
+}
+div.widget[id*="cce_loveit_widget"] h3:before {
+	content: "";
+	height: 100%;
+	width: 3px;
+	background: #30afe0;
+	left: 0;
+	top:0;
+	position: absolute;
+}

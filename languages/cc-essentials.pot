@@ -1,0 +1,1197 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CC Essentials\n"
+"POT-Creation-Date: 2016-10-09 19:25+0530\n"
+"PO-Revision-Date: 2016-10-09 19:25+0530\n"
+"Last-Translator: CodeCookies\n"
+"Language-Team: CodeCookies\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: cc-essentials.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: assets/js/plugin-lang.php:5
+msgid "Insert CC Shortcodes"
+msgstr ""
+
+#: assets/js/plugin-lang.php:6
+msgid "Content related"
+msgstr ""
+
+#: assets/js/plugin-lang.php:7
+msgid "Accordion toggle"
+msgstr ""
+
+#: assets/js/plugin-lang.php:8
+msgid "Button"
+msgstr ""
+
+#: assets/js/plugin-lang.php:9
+msgid "Icon box"
+msgstr ""
+
+#: assets/js/plugin-lang.php:10
+msgid "Notification"
+msgstr ""
+
+#: assets/js/plugin-lang.php:11
+msgid "Tabbed content"
+msgstr ""
+
+#: assets/js/plugin-lang.php:12 shortcodes/config.php:300
+msgid "Testimonial / quote"
+msgstr ""
+
+#: assets/js/plugin-lang.php:13 shortcodes/config.php:364
+msgid "Layout columns"
+msgstr ""
+
+#: assets/js/plugin-lang.php:14
+msgid "Typography related"
+msgstr ""
+
+#: assets/js/plugin-lang.php:15
+msgid "Dropcap"
+msgstr ""
+
+#: assets/js/plugin-lang.php:16
+msgid "Lead paragraph"
+msgstr ""
+
+#: assets/js/plugin-lang.php:17
+msgid "Label"
+msgstr ""
+
+#: assets/js/plugin-lang.php:18
+msgid "Misc. elements"
+msgstr ""
+
+#: assets/js/plugin-lang.php:19 shortcodes/config.php:513
+msgid "Image"
+msgstr ""
+
+#: assets/js/plugin-lang.php:20 shortcodes/config.php:564
+msgid "Video"
+msgstr ""
+
+#: assets/js/plugin-lang.php:21
+msgid "Horizontal divider"
+msgstr ""
+
+#: assets/js/plugin-lang.php:22
+msgid "Google map"
+msgstr ""
+
+#: cc-essentials.php:110
+msgid "Configure"
+msgstr ""
+
+#: cc-essentials.php:142
+msgid "CC Essentials - Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: cc-essentials.php:142
+msgid "CC Essentials"
+msgstr ""
+
+#: includes/settings/settings.php:38
+msgid "CC Essentials – Settings"
+msgstr ""
+
+#: includes/settings/settings.php:88
+msgid "Love It! button"
+msgstr ""
+
+#: includes/settings/settings.php:89
+msgid "Social buttons"
+msgstr ""
+
+#: includes/settings/settings.php:90
+msgid "Map settings"
+msgstr ""
+
+#: includes/settings/settings.php:146
+msgid "Settings Updated"
+msgstr ""
+
+#: includes/settings/settings.php:208
+msgid "Show ‘Love It!’ button on"
+msgstr ""
+
+#: includes/settings/settings.php:209
+msgid "Specify where the ‘Love It!’ button should be displayed."
+msgstr ""
+
+#: includes/settings/settings.php:212
+msgid "Blog posts"
+msgstr ""
+
+#: includes/settings/settings.php:213
+msgid "Pages"
+msgstr ""
+
+#: includes/settings/settings.php:219
+msgid "Shortcode & Template tag usage"
+msgstr ""
+
+#: includes/settings/settings.php:220
+msgid ""
+"To use ‘Love It!’ anywhere within your posts and pages you can use the "
+"shortcode:"
+msgstr ""
+
+#: includes/settings/settings.php:220
+msgid ""
+"To use ‘Love It!’ button manually in your theme template, use the following "
+"PHP code:"
+msgstr ""
+
+#: includes/settings/settings.php:220
+msgid ""
+"Note: All the settings below are applicable to LoveIt button inserted using "
+"the shortcode or the template tag."
+msgstr ""
+
+#: includes/settings/settings.php:225
+msgid "Prefix text"
+msgstr ""
+
+#: includes/settings/settings.php:227
+msgid "The text before the icon. Leave blank for no text before the icon."
+msgstr ""
+
+#: includes/settings/settings.php:232
+msgid "Suffix text when no loves received"
+msgstr ""
+
+#: includes/settings/settings.php:233
+msgid "No loves yet!"
+msgstr ""
+
+#: includes/settings/settings.php:234
+msgid ""
+"The text after the count when no one has loved a post/page. Leave blank for "
+"no text after the count."
+msgstr ""
+
+#: includes/settings/settings.php:239
+msgid "Hide count when no loves received"
+msgstr ""
+
+#: includes/settings/settings.php:240
+msgid "Check this to hide the ‘0’ count when no loves are received."
+msgstr ""
+
+#: includes/settings/settings.php:243
+msgid "Yes, hide it"
+msgstr ""
+
+#: includes/settings/settings.php:248
+msgid "Suffix text when 1 love received"
+msgstr ""
+
+#: includes/settings/settings.php:249
+msgid "person loved this!"
+msgstr ""
+
+#: includes/settings/settings.php:250
+msgid ""
+"The text after the count when one person has loved a post/page. Leave blank "
+"for no text after the count."
+msgstr ""
+
+#: includes/settings/settings.php:255
+msgid "Suffix text when more than 1 loves received"
+msgstr ""
+
+#: includes/settings/settings.php:256
+msgid "people loved this!"
+msgstr ""
+
+#: includes/settings/settings.php:257
+msgid ""
+"The text after the count when more than one person has loved a post/page. "
+"Leave blank for no text after the count."
+msgstr ""
+
+#: includes/settings/settings.php:412
+#, php-format
+msgid ""
+"An API key is required for proper functioning of the &lsquo;Google "
+"Map&rsquo; shortcode. %sGet your free Maps API Key%s."
+msgstr ""
+
+#: includes/settings/settings.php:424
+#, php-format
+msgid ""
+"The callback function used for the <strong>%s</strong> setting is missing."
+msgstr ""
+
+#: includes/tinymce.php:117
+msgid "Run In"
+msgstr ""
+
+#: includes/tinymce.php:122
+msgid "Alert"
+msgstr ""
+
+#: includes/tinymce.php:125 shortcodes/config.php:82 shortcodes/config.php:477
+msgid "Green"
+msgstr ""
+
+#: includes/tinymce.php:132 shortcodes/config.php:81 shortcodes/config.php:476
+msgid "Red"
+msgstr ""
+
+#: includes/tinymce.php:139 shortcodes/config.php:83 shortcodes/config.php:478
+msgid "Yellow"
+msgstr ""
+
+#: includes/tinymce.php:146 shortcodes/config.php:84 shortcodes/config.php:480
+msgid "Blue"
+msgstr ""
+
+#: includes/tinymce.php:153
+msgid "Grey"
+msgstr ""
+
+#: includes/tinymce.php:229
+msgid "Insert Horizontal Line"
+msgstr ""
+
+#: includes/tinymce.php:230
+msgid "Horizontal line"
+msgstr ""
+
+#: includes/tinymce.php:231
+msgid "Style"
+msgstr ""
+
+#: includes/tinymce.php:232
+msgid "Plain"
+msgstr ""
+
+#: includes/tinymce.php:233
+msgid "Strong"
+msgstr ""
+
+#: includes/tinymce.php:234 shortcodes/config.php:585
+msgid "Double"
+msgstr ""
+
+#: includes/tinymce.php:235
+msgid "Dashed"
+msgstr ""
+
+#: includes/tinymce.php:236
+msgid "Dotted"
+msgstr ""
+
+#: loveit/cce-loveit.php:40 loveit/cce-loveit.php:183
+msgid "You already loved this!"
+msgstr ""
+
+#: loveit/cce-loveit.php:85
+msgid "Loves received"
+msgstr ""
+
+#: loveit/cce-loveit.php:93
+msgid "loves"
+msgstr ""
+
+#: loveit/cce-loveit.php:95
+msgid "0 loves"
+msgstr ""
+
+#: loveit/cce-loveit.php:179
+msgid "Love this"
+msgstr ""
+
+#: loveit/cce-loveit.php:211
+msgid "&#x95; [CC] Most Loved Posts"
+msgstr ""
+
+#: loveit/cce-loveit.php:211
+msgid ""
+"Displays most loved posts in descending order. Installed by &#x2018;CC "
+"Essentials&#x2019; plugin."
+msgstr ""
+
+#: loveit/cce-loveit.php:274
+msgid "Most loved posts"
+msgstr ""
+
+#: loveit/cce-loveit.php:290
+msgid "Title:"
+msgstr ""
+
+#: loveit/cce-loveit.php:294
+msgid "Description:"
+msgstr ""
+
+#: loveit/cce-loveit.php:298
+msgid "Posts:"
+msgstr ""
+
+#: loveit/cce-loveit.php:303
+msgid "Display counts"
+msgstr ""
+
+#: loveit/cce-loveit.php:308
+#, php-format
+msgid "Display suffix & prefix %1$sEdit%2$s"
+msgstr ""
+
+#: shortcodes/cce-shortcodes.php:36
+msgid "Upload or select a video"
+msgstr ""
+
+#: shortcodes/cce-shortcodes.php:37
+msgid "Upload or select an image"
+msgstr ""
+
+#: shortcodes/cce-shortcodes.php:102
+msgid "Insert Shortcode"
+msgstr ""
+
+#: shortcodes/config.php:23
+msgid "Toggle title"
+msgstr ""
+
+#: shortcodes/config.php:24
+msgid "Add a title for the toggle content."
+msgstr ""
+
+#: shortcodes/config.php:30
+msgid "Toggle content"
+msgstr ""
+
+#: shortcodes/config.php:31
+msgid "Add the toggle content (HTML is allowed)."
+msgstr ""
+
+#: shortcodes/config.php:35
+msgid "Initial state"
+msgstr ""
+
+#: shortcodes/config.php:36
+msgid "Choose whether the toggle is open or closed on page load."
+msgstr ""
+
+#: shortcodes/config.php:38
+msgid "Open"
+msgstr ""
+
+#: shortcodes/config.php:39
+msgid "Closed"
+msgstr ""
+
+#: shortcodes/config.php:44
+msgid "Accordion toggle settings"
+msgstr ""
+
+#: shortcodes/config.php:56
+msgid "Button text"
+msgstr ""
+
+#: shortcodes/config.php:57
+msgid "The text that appears on the button."
+msgstr ""
+
+#: shortcodes/config.php:62
+msgid "URL"
+msgstr ""
+
+#: shortcodes/config.php:63
+msgid ""
+"Link to navigate to upon clicking the button. For e.g. http://google.com"
+msgstr ""
+
+#: shortcodes/config.php:67
+msgid "Open in a new tab/window?"
+msgstr ""
+
+#: shortcodes/config.php:68
+msgid "Should the link be opened in a new window or tab?"
+msgstr ""
+
+#: shortcodes/config.php:71
+msgid "No, open link in the same tab/window"
+msgstr ""
+
+#: shortcodes/config.php:72
+msgid "Yes, open link in a new tab/window"
+msgstr ""
+
+#: shortcodes/config.php:77 shortcodes/config.php:472
+msgid "Color"
+msgstr ""
+
+#: shortcodes/config.php:78
+msgid "Pick a background color for the button."
+msgstr ""
+
+#: shortcodes/config.php:85 shortcodes/config.php:479
+msgid "Black"
+msgstr ""
+
+#: shortcodes/config.php:86
+msgid "White"
+msgstr ""
+
+#: shortcodes/config.php:87 shortcodes/config.php:481
+msgid "Gray"
+msgstr ""
+
+#: shortcodes/config.php:88
+msgid "As per theme"
+msgstr ""
+
+#: shortcodes/config.php:93
+msgid "Size"
+msgstr ""
+
+#: shortcodes/config.php:94
+msgid "Choose the size of the button."
+msgstr ""
+
+#: shortcodes/config.php:97
+msgid "Small"
+msgstr ""
+
+#: shortcodes/config.php:98
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/config.php:99 shortcodes/config.php:412
+msgid "Large"
+msgstr ""
+
+#: shortcodes/config.php:104 shortcodes/config.php:397
+#: shortcodes/config.php:486
+msgid "Shape"
+msgstr ""
+
+#: shortcodes/config.php:105
+msgid "Choose the shape of the button."
+msgstr ""
+
+#: shortcodes/config.php:106 shortcodes/config.php:488
+msgid "rounded"
+msgstr ""
+
+#: shortcodes/config.php:108 shortcodes/config.php:490
+msgid "Rounded"
+msgstr ""
+
+#: shortcodes/config.php:109 shortcodes/config.php:402
+#: shortcodes/config.php:491
+msgid "Square"
+msgstr ""
+
+#: shortcodes/config.php:110 shortcodes/config.php:492
+msgid "Oval"
+msgstr ""
+
+#: shortcodes/config.php:116 shortcodes/config.php:154
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/config.php:117
+msgid "Choose an icon (optional)."
+msgstr ""
+
+#: shortcodes/config.php:121
+msgid "Icon placement"
+msgstr ""
+
+#: shortcodes/config.php:122
+msgid "Choose whether the icon be displayed before or after the button text."
+msgstr ""
+
+#: shortcodes/config.php:125
+msgid "Before text"
+msgstr ""
+
+#: shortcodes/config.php:126
+msgid "After text"
+msgstr ""
+
+#: shortcodes/config.php:131 shortcodes/config.php:534
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/config.php:132
+msgid "Choose the alignment of the button."
+msgstr ""
+
+#: shortcodes/config.php:133
+msgid "none"
+msgstr ""
+
+#: shortcodes/config.php:135 shortcodes/config.php:538
+#: shortcodes/config.php:642
+msgid "None"
+msgstr ""
+
+#: shortcodes/config.php:136 shortcodes/config.php:179
+#: shortcodes/config.php:259 shortcodes/config.php:539
+msgid "Left"
+msgstr ""
+
+#: shortcodes/config.php:137 shortcodes/config.php:541
+msgid "Right"
+msgstr ""
+
+#: shortcodes/config.php:142
+msgid "Button settings"
+msgstr ""
+
+#: shortcodes/config.php:155
+msgid "Choose an icon."
+msgstr ""
+
+#: shortcodes/config.php:159
+msgid "Icon size"
+msgstr ""
+
+#: shortcodes/config.php:160
+msgid "Select the appropriate size of the icon."
+msgstr ""
+
+#: shortcodes/config.php:163
+msgid "32px"
+msgstr ""
+
+#: shortcodes/config.php:164
+msgid "48px"
+msgstr ""
+
+#: shortcodes/config.php:165
+msgid "64px"
+msgstr ""
+
+#: shortcodes/config.php:166
+msgid "72px"
+msgstr ""
+
+#: shortcodes/config.php:167
+msgid "96px"
+msgstr ""
+
+#: shortcodes/config.php:168
+msgid "128px"
+msgstr ""
+
+#: shortcodes/config.php:169
+msgid "164px"
+msgstr ""
+
+#: shortcodes/config.php:170
+msgid "192px"
+msgstr ""
+
+#: shortcodes/config.php:175
+msgid "Icon position"
+msgstr ""
+
+#: shortcodes/config.php:176
+msgid "Choose the position of the icon."
+msgstr ""
+
+#: shortcodes/config.php:180 shortcodes/config.php:258
+msgid "Top"
+msgstr ""
+
+#: shortcodes/config.php:186
+msgid "Title"
+msgstr ""
+
+#: shortcodes/config.php:187
+msgid "Give a title to the icon-box."
+msgstr ""
+
+#: shortcodes/config.php:192
+msgid "Content"
+msgstr ""
+
+#: shortcodes/config.php:193
+msgid "Enter the content of the icon-box."
+msgstr ""
+
+#: shortcodes/config.php:198
+msgid "Icon-box settings"
+msgstr ""
+
+#: shortcodes/config.php:209
+msgid "Notification type"
+msgstr ""
+
+#: shortcodes/config.php:210
+msgid "Choose the type of notification."
+msgstr ""
+
+#: shortcodes/config.php:213
+msgid "Info"
+msgstr ""
+
+#: shortcodes/config.php:214
+msgid "Success"
+msgstr ""
+
+#: shortcodes/config.php:215
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/config.php:216
+msgid "Error"
+msgstr ""
+
+#: shortcodes/config.php:222
+msgid "Notification title (optional)"
+msgstr ""
+
+#: shortcodes/config.php:223
+msgid "The title of the notification message."
+msgstr ""
+
+#: shortcodes/config.php:228
+msgid "Notification message"
+msgstr ""
+
+#: shortcodes/config.php:229
+msgid "The content of the notification message."
+msgstr ""
+
+#: shortcodes/config.php:233
+msgid "Show close button?"
+msgstr ""
+
+#: shortcodes/config.php:234
+msgid "Should the notification box show the close (X) button?"
+msgstr ""
+
+#: shortcodes/config.php:237
+msgid "No"
+msgstr ""
+
+#: shortcodes/config.php:238
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/config.php:243
+msgid "Notification settings"
+msgstr ""
+
+#: shortcodes/config.php:254
+msgid "Position of tabs"
+msgstr ""
+
+#: shortcodes/config.php:255
+msgid "Select the placement direction of the tabs."
+msgstr ""
+
+#: shortcodes/config.php:256
+msgid "top"
+msgstr ""
+
+#: shortcodes/config.php:268
+msgid "Tab title"
+msgstr ""
+
+#: shortcodes/config.php:269
+msgid "Set a title of this tab."
+msgstr ""
+
+#: shortcodes/config.php:274
+msgid "Tab Content"
+msgstr ""
+
+#: shortcodes/config.php:275
+msgid "Add content to this tab."
+msgstr ""
+
+#: shortcodes/config.php:279
+msgid "Add a tab"
+msgstr ""
+
+#: shortcodes/config.php:282
+msgid "Tabbed content settings"
+msgstr ""
+
+#: shortcodes/config.php:294
+msgid "Author’s name"
+msgstr ""
+
+#: shortcodes/config.php:295
+msgid "Enter the author&rsquo;s name."
+msgstr ""
+
+#: shortcodes/config.php:301
+msgid "The actual testimonial/quotation."
+msgstr ""
+
+#: shortcodes/config.php:306
+msgid "Author’s image (optional)"
+msgstr ""
+
+#: shortcodes/config.php:307
+msgid "Link to the JPG/PNG image file."
+msgstr ""
+
+#: shortcodes/config.php:312
+msgid "Subtitle (optional)"
+msgstr ""
+
+#: shortcodes/config.php:313
+msgid "A small description about the author. For eg. Founder & CEO, Google."
+msgstr ""
+
+#: shortcodes/config.php:318
+msgid "URL (optional)"
+msgstr ""
+
+#: shortcodes/config.php:319
+msgid "Link to author&rsquo;s site."
+msgstr ""
+
+#: shortcodes/config.php:323
+msgid "Testimonial / quote settings"
+msgstr ""
+
+#: shortcodes/config.php:338
+msgid "Column type"
+msgstr ""
+
+#: shortcodes/config.php:339
+msgid "Choose the type of the column based on its width."
+msgstr ""
+
+#: shortcodes/config.php:341
+msgid "One Third"
+msgstr ""
+
+#: shortcodes/config.php:342
+msgid "One Third Last"
+msgstr ""
+
+#: shortcodes/config.php:343
+msgid "Two Thirds"
+msgstr ""
+
+#: shortcodes/config.php:344
+msgid "Two Thirds Last"
+msgstr ""
+
+#: shortcodes/config.php:345
+msgid "One Half"
+msgstr ""
+
+#: shortcodes/config.php:346
+msgid "One Half Last"
+msgstr ""
+
+#: shortcodes/config.php:347
+msgid "One Fourth"
+msgstr ""
+
+#: shortcodes/config.php:348
+msgid "One Fourth Last"
+msgstr ""
+
+#: shortcodes/config.php:349
+msgid "Three Fourth"
+msgstr ""
+
+#: shortcodes/config.php:350
+msgid "Three Fourth Last"
+msgstr ""
+
+#: shortcodes/config.php:356
+msgid "Column content"
+msgstr ""
+
+#: shortcodes/config.php:357
+msgid "Add content for this column."
+msgstr ""
+
+#: shortcodes/config.php:361
+msgid "Add column"
+msgstr ""
+
+#: shortcodes/config.php:380
+msgid "Dropcap letter"
+msgstr ""
+
+#: shortcodes/config.php:381
+msgid ""
+"Specify the letter to be dropcapped. Usually this is the first letter of a "
+"paragraph."
+msgstr ""
+
+#: shortcodes/config.php:386
+msgid "Background color"
+msgstr ""
+
+#: shortcodes/config.php:387
+msgid "Select the background color for the dropcap letter."
+msgstr ""
+
+#: shortcodes/config.php:392
+msgid "Text color"
+msgstr ""
+
+#: shortcodes/config.php:393
+msgid "Select the foreground (text) color for the dropcap letter."
+msgstr ""
+
+#: shortcodes/config.php:398
+msgid "Select the shape of the background."
+msgstr ""
+
+#: shortcodes/config.php:401
+msgid "Round"
+msgstr ""
+
+#: shortcodes/config.php:407 shortcodes/config.php:437
+msgid "Font size"
+msgstr ""
+
+#: shortcodes/config.php:408
+msgid "Choose a font-size for the dropcap letter."
+msgstr ""
+
+#: shortcodes/config.php:411
+msgid "Big"
+msgstr ""
+
+#: shortcodes/config.php:413
+msgid "Huge"
+msgstr ""
+
+#: shortcodes/config.php:414
+msgid "Massive"
+msgstr ""
+
+#: shortcodes/config.php:415
+msgid "Are you crazy? :O"
+msgstr ""
+
+#: shortcodes/config.php:420
+msgid "Dropcap settings"
+msgstr ""
+
+#: shortcodes/config.php:432
+msgid "Paragraph content"
+msgstr ""
+
+#: shortcodes/config.php:433
+msgid "Write the content of the paragraph here."
+msgstr ""
+
+#: shortcodes/config.php:438
+msgid ""
+"Select how large the font-size of this paragraph should be compared to the "
+"rest of the content."
+msgstr ""
+
+#: shortcodes/config.php:441
+msgid "25% larger"
+msgstr ""
+
+#: shortcodes/config.php:442
+msgid "50% larger"
+msgstr ""
+
+#: shortcodes/config.php:443
+msgid "60% larger"
+msgstr ""
+
+#: shortcodes/config.php:444
+msgid "75% larger"
+msgstr ""
+
+#: shortcodes/config.php:445
+msgid "100% larger"
+msgstr ""
+
+#: shortcodes/config.php:451
+msgid "Text color (optional)"
+msgstr ""
+
+#: shortcodes/config.php:452
+msgid "Select the text-color for the paragraph."
+msgstr ""
+
+#: shortcodes/config.php:456
+msgid "Lead paragraph settings"
+msgstr ""
+
+#: shortcodes/config.php:467
+msgid "Label text"
+msgstr ""
+
+#: shortcodes/config.php:468
+msgid "Enter text to be shown as label."
+msgstr ""
+
+#: shortcodes/config.php:473
+msgid "Choose the color of the label."
+msgstr ""
+
+#: shortcodes/config.php:487
+msgid "Choose the shape of the label."
+msgstr ""
+
+#: shortcodes/config.php:497
+msgid "Label settings"
+msgstr ""
+
+#: shortcodes/config.php:514
+msgid "Choose an image."
+msgstr ""
+
+#: shortcodes/config.php:518
+msgid "Effect"
+msgstr ""
+
+#: shortcodes/config.php:519
+msgid "This uses CSS3 filters which may not work on older browsers."
+msgstr ""
+
+#: shortcodes/config.php:522
+msgid "No filter"
+msgstr ""
+
+#: shortcodes/config.php:523 shortcodes/config.php:646
+msgid "Grayscale"
+msgstr ""
+
+#: shortcodes/config.php:524
+msgid "Sepia"
+msgstr ""
+
+#: shortcodes/config.php:525
+msgid "Blur"
+msgstr ""
+
+#: shortcodes/config.php:526
+msgid "Hue Rotate"
+msgstr ""
+
+#: shortcodes/config.php:527
+msgid "Contrast"
+msgstr ""
+
+#: shortcodes/config.php:528
+msgid "Brightness"
+msgstr ""
+
+#: shortcodes/config.php:529
+msgid "Invert"
+msgstr ""
+
+#: shortcodes/config.php:535
+msgid "Choose the alignment of the image."
+msgstr ""
+
+#: shortcodes/config.php:540
+msgid "Center"
+msgstr ""
+
+#: shortcodes/config.php:547
+msgid "URL (Optional)"
+msgstr ""
+
+#: shortcodes/config.php:548
+msgid "Link to navigate to upon clicking the image. For e.g. http://google.com"
+msgstr ""
+
+#: shortcodes/config.php:552
+msgid "Insert an image"
+msgstr ""
+
+#: shortcodes/config.php:565
+#, php-format
+msgid ""
+"Upload a video or choose an existing video from the Media Library. You can "
+"also paste a video link from sites like Youtube, Vimeo, TED, etc. Full list "
+"of supported sites can be found <a target=\"_blank\" href=\"%1$s\">here</a>."
+msgstr ""
+
+#: shortcodes/config.php:569
+msgid "Insert a video"
+msgstr ""
+
+#: shortcodes/config.php:580
+msgid "Type"
+msgstr ""
+
+#: shortcodes/config.php:581
+msgid "Select the type of the horizontal divider."
+msgstr ""
+
+#: shortcodes/config.php:582
+msgid "single"
+msgstr ""
+
+#: shortcodes/config.php:584
+msgid "Single"
+msgstr ""
+
+#: shortcodes/config.php:586
+msgid "Single-dashed"
+msgstr ""
+
+#: shortcodes/config.php:587
+msgid "Double-dashed"
+msgstr ""
+
+#: shortcodes/config.php:588
+msgid "Single-dotted"
+msgstr ""
+
+#: shortcodes/config.php:589
+msgid "Double-dotted"
+msgstr ""
+
+#: shortcodes/config.php:594
+msgid "Length"
+msgstr ""
+
+#: shortcodes/config.php:595
+msgid "Select the length of the horizontal divider."
+msgstr ""
+
+#: shortcodes/config.php:596
+msgid "long"
+msgstr ""
+
+#: shortcodes/config.php:598
+msgid "Long"
+msgstr ""
+
+#: shortcodes/config.php:599
+msgid "Short"
+msgstr ""
+
+#: shortcodes/config.php:604
+msgid "Horizontal divider settings"
+msgstr ""
+
+#: shortcodes/config.php:615
+msgid "Latitude / Longitude"
+msgstr ""
+
+#: shortcodes/config.php:616
+#, php-format
+msgid ""
+"Drag and drop the map marker to select the exact location. You&#8217;ll need "
+"a Google Maps API key for maps to work. %sGet your free API key%s and "
+"%senter it here%s."
+msgstr ""
+
+#: shortcodes/config.php:621
+msgid "Width"
+msgstr ""
+
+#: shortcodes/config.php:622
+msgid "Enter the width of the map in px, em or %. Default is <i>100%</i>."
+msgstr ""
+
+#: shortcodes/config.php:627
+msgid "Height"
+msgstr ""
+
+#: shortcodes/config.php:628
+msgid "Enter the height of the map in px, em or %. Default is <i>350px</i>."
+msgstr ""
+
+#: shortcodes/config.php:633
+msgid "Zoom level"
+msgstr ""
+
+#: shortcodes/config.php:634
+msgid "Enter the map zoom level between 0-21. Default is <i>15</i>."
+msgstr ""
+
+#: shortcodes/config.php:639
+msgid "Map style"
+msgstr ""
+
+#: shortcodes/config.php:640
+msgid "Choose a style for the map."
+msgstr ""
+
+#: shortcodes/config.php:643
+msgid "Pale Dawn"
+msgstr ""
+
+#: shortcodes/config.php:644
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: shortcodes/config.php:645
+msgid "Bright & Bubbly"
+msgstr ""
+
+#: shortcodes/config.php:647
+msgid "Mixed"
+msgstr ""
+
+#: shortcodes/config.php:652
+msgid "Insert a Google map"
+msgstr ""
+
+#: shortcodes/shortcode-class.php:24
+msgid "Configuration file does not exist."
+msgstr ""
+
+#: shortcodes/shortcode-class.php:122
+msgid "Choose Image"
+msgstr ""
+
+#: shortcodes/shortcode-class.php:130
+msgid "Choose Video"
+msgstr ""
+
+#: shortcodes/shortcode-class.php:148
+msgid "Enter a location"
+msgstr ""
+
+#: shortcodes/shortcodes.php:20
+msgid "Title goes here"
+msgstr ""
+
+#: shortcodes/shortcodes.php:159
+msgid "Tab"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/cc-essentials/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"CodeCookies Essentials: A set of powerful tools like shortcodes, widgets and "
+"font-awesome icons to extend the functionality of your WordPress site."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "CodeCooki.es"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://codecooki.es"
+msgstr ""

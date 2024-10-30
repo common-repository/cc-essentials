@@ -1,0 +1,17 @@
+.cce-loveit {
+	background-image: url(../img/heart.png);
+	background-repeat: no-repeat;
+	background-position: 0 48%;
+	display: inline-block;
+	padding-left: 18px;
+	text-decoration: none;
+}
+.cce-loveit.loved {
+	background-image: url(../img/heart-active.png);
+	background-repeat: no-repeat;
+	background-position: 0 48%;
+	text-decoration: none;
+}
+.cce-loveit-prefix, .cce-loveit-count {
+	margin-right: 3px;
+}
